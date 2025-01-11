@@ -6,6 +6,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jconway98/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jconway98/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Azure Resource Group and Virtual Machine Setup](https://github.com/jconway98/azureRG-VM)
   - [Configuring Active Directory within Azure VMs](https://github.com/jconway98/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jconway98/azure-network-protocols)
-  - [Azure Resource Group and Virtual Machine Setup](https://github.com/jconway98/azureRG-VM)
+  
