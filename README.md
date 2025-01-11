@@ -8,4 +8,4 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jconway98/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jconway98/azure-network-protocols)
-  - [Setting up Azure RGs and VMs](https://github.com/jconway98/azure-RG/VM)
+  - [Setting up Azure RGs and VMs](https://github.com/jconway98/azureRG-VM)
